@@ -1,3 +1,27 @@
+/* Problem Set 4 - 34, c. Chapter 4 Object-Oriented Data Structures Using Java, 4th Edition
+-------------------------------------------------------------*
+/*
+Name: Patricia Antlitz
+Date: 10/09/2022
+Class: CIS-252 Computer Science II - NECC Fall 2022
+
+ * Please read the README file for detailed information about this program.
+
+ * This file is the main class that runs this program
+ * newList object is created from the DeQue.java which implements an interface, DequeInterface.java class
+ * It uses the node file DLLNode.java for the usage of doubly-linked node lists.
+ * The following files are NOT original to this code (not coded by me):
+    * DequeInterface.java
+    * QueueUnderflowException.java
+    * QueueOverflowException.java
+ * The following file was coded by me (methods added): DeQue.java
+ * This is a simple main class, no user intake is necessary. All values are given by the program as a test
+*/
+
+/**
+ * @author Patricia N. Antlitz
+ * @version 1.0
+ */
 public class Chapter4_34_PatriciaAntlitz
 {
     public static void main(String[] args)
